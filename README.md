@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderdada6&label=Profile%20views&color=0e75b6&style=flat" alt="coderdada6" /> </p>
 
+  About Me 🚀 
+  🎓 I’m an Full Stack Web Developer & a junior pursuing my Bachelors in Information Technology & Engineering.
+  👨‍💻 I am passionate about Cpp, Web Dev, Frameworks , Backend Development & I enjoy learning new things.
+  
 - 🔭 I’m currently working on **Google-classroom-clone**
 
 - 🌱 I’m currently learning **more about React.js & other JavaScripts**
@@ -11,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Technical Content Writing**
 
-- 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/coderdada](https://auth.geeksforgeeks.org/user/coderdada)
+- 📝 I regularly write articles on [GeeksforGeeks/coderdada](https://auth.geeksforgeeks.org/user/coderdada)
 
 - 💬 Ask me about **Django or any tech related stuff**
 
