@@ -3,9 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderdada6&label=Profile%20views&color=0e75b6&style=flat" alt="coderdada6" /> </p>
 
-  About Me 🚀 
+ <h3 align="left">About me:🚀</h3> 
+  
   🎓 I’m an Full Stack Web Developer & a junior pursuing my Bachelors in Information Technology & Engineering.
+  
   👨‍💻 I am passionate about Cpp, Web Dev, Frameworks , Backend Development & I enjoy learning new things.
+  
   
 - 🔭 I’m currently working on **Google-classroom-clone**
 
