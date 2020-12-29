@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **coderdada6@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VGyKmV4AIjIy4UIq_3tA8aCZAj8lLwHS/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/11dzooS3k3pviHNsHhaoPtdb4WGR1-9mV/view)
 
 - ⚡ Fun fact **I spend almost 12 hours listening songs everyday.**
 
