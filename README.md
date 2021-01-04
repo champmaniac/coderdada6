@@ -5,11 +5,11 @@
 
  <h3 align="left">My Experiences 🙌</h3>
   
-- **Technical Content Writer** at GeeksforGeeks        JAN 2021 - PRESENT
+- **Technical Content Writer** at GeeksforGeeks        <em>Jan 2021 - Present</em>
 
-- **Campus Ambassador** at Quark, BITs Pilani Goa          DEC 2019 - FEB 2020
+- **Campus Ambassador** at Quark, BITs Pilani Goa      <em>Dec 2019 - Feb 2020</em>
 
-- **Campus Ambassador** at Thomso, IIT Roorkee             NOV 2019 - JAN 2020
+- **Campus Ambassador** at Thomso, IIT Roorkee         <em>Nov 2019 - Jan 2020</em>
 
 
  <h3 align="left">About me:🚀</h3> 
