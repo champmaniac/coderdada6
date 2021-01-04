@@ -9,12 +9,20 @@
   
   👨‍💻 I am passionate about Cpp, Web Dev, Frameworks , Backend Development & I enjoy learning new things.
   
+  My Experiences 🙌
+  
+- **Technical Content Writer** at GeeksforGeeks        JAN 2021 - PRESENT
+
+- **Campus Ambassador** at Quark, BITs Pilani Goa          DEC 2019 - FEB 2020
+
+- **Campus Ambassador** at Thomso, IIT Roorkee             NOV 2019 - JAN 2020
+  
   
 - 🔭 I’m currently working on **Covid19-tracker**
 
 - 🌱 I’m currently learning **more about React.js & other JavaScripts**
 
-- 👯 I’m looking to collaborate on **GeeksforGeeks.**
+- 👯 In collaboration with **GeeksforGeeks.**
 
 - 🤝 I’m looking for help with **Technical Content Writing**
 
