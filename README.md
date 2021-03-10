@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderdada6&label=Profile%20views&color=0e75b6&style=flat" alt="coderdada6" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderdada6" alt="coderdada6" /></a> </p>
+
  <h3 align="left">My Experiences 🙌</h3>
   
 - **Technical Content Writer** at GeeksforGeeks        
@@ -40,7 +42,7 @@
 <a href="https://twitter.com/prantik1e" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="prantik1e" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prantikmukherjee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="prantikmukherjee" height="30" width="40" /></a>
 <a href="https://fb.com/mr.saheb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mr.saheb" height="30" width="40" /></a>
-<a href="https://instagram.com/prantikm2800" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prantikm2800" height="30" width="40" /></a>
+<a href="https://instagram.com/coderdada_6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="prantikm2800" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/coderdada6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="coderdada6" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/user/coderdada" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="user/coderdada" height="30" width="40" /></a>
 </p>
