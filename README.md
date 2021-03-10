@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderdada6&label=Profile%20views&color=0e75b6&style=flat" alt="coderdada6" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coderdada6" alt="coderdada6" /></a> </p>
 
  <h3 align="left">My Experiences 🙌</h3>
   
@@ -11,7 +10,9 @@
 
 - **Campus Ambassador** at Quark, BITs Pilani Goa      
 
-- **Campus Ambassador** at Thomso, IIT Roorkee         
+- **Campus Ambassador** at Thomso, IIT Roorkee 
+
+- **Open Source Contributor** at GSSoC'21        
 
 
  <h3 align="left">About me:🚀</h3> 
@@ -25,9 +26,9 @@
 
 - 👯 In collaboration with **GeeksforGeeks.**
 
-- 🤝 I’m looking for help with **Technical Content Writing**
+- 🤝 I’m looking for help with **Content Making**
 
-- 📝 I regularly write articles on [GeeksforGeeks/coderdada](https://auth.geeksforgeeks.org/user/coderdada)
+- 📝 I write articles on [GeeksforGeeks/coderdada](https://auth.geeksforgeeks.org/user/coderdada)
 
 - 💬 Ask me about **Django or any tech related stuff**
 
