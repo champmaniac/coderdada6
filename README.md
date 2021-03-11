@@ -12,7 +12,7 @@
 
 - **Campus Ambassador** at Thomso, IIT Roorkee 
 
-- **Open Source Contributor** at GSSoC'21        
+- **Open Source Enthusiast** at GSSoC'21        
 
 
  <h3 align="left">About me:🚀</h3> 
