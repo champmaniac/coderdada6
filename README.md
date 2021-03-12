@@ -5,14 +5,14 @@
 
 
  <h3 align="left">My Experiences 🙌</h3>
+ 
+- **Open Source Enthusiast** at GSSoC'21    
   
 - **Technical Content Writer** at GeeksforGeeks        
 
 - **Campus Ambassador** at Quark, BITs Pilani Goa      
 
-- **Campus Ambassador** at Thomso, IIT Roorkee 
-
-- **Open Source Enthusiast** at GSSoC'21        
+- **Campus Ambassador** at Thomso, IIT Roorkee     
 
 
  <h3 align="left">About me:🚀</h3> 
