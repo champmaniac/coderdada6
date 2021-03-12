@@ -1,7 +1,5 @@
-<h1 align="center">Hola , I'm Prantik Mukherjee 👋 </h1>
+### Hey , <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Prantik!
 <h3 align="center">A Passionate Full-Stack Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderdada6&label=Profile%20views&color=0e75b6&style=flat" alt="coderdada6" /> </p>
 
 
  <h3 align="left">My Experiences 🙌</h3>
@@ -56,3 +54,5 @@
   
 
 <img src = "https://github-readme-stats.vercel.app/api?username=coderdada6&&show_icons=true&title_color=white&icon_color=red&text_color=black&bg_color=black">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=coderdada6&label=Profile%20views&color=0e75b6&style=flat" alt="coderdada6" /> </p>
