@@ -28,7 +28,7 @@
   👨‍💻 I am passionate about Cpp, Web Dev, Frameworks , Backend Development & I enjoy learning new things
   
 
-- 🌱 I’m currently learning **more about React.js & other JavaScripts**
+- 🌱 I’m currently learning **More about React.js & other JavaScripts**
 
 - 👯 In collaboration with **GeeksforGeeks.**
 
