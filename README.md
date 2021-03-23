@@ -38,7 +38,7 @@
 
 - 💬 Ask me about **Django or any tech related stuff**
 
-- 📫 How to reach me **coderdada6@gmail.com**
+- 📫 How to reach me **champmaniac04@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1y7ZTKYEgqeOFB3EUk2gUJhmBgWuL7Yop/view)
 
