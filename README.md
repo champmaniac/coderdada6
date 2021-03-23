@@ -34,8 +34,6 @@
 
 - 🤝 I’m looking for help with **Content Making**
 
-- 📝 I write articles on [GeeksforGeeks/coderdada](https://auth.geeksforgeeks.org/user/coderdada)
-
 - 💬 Ask me about **Django or any tech related stuff**
 
 - 📫 How to reach me **champmaniac04@gmail.com**
